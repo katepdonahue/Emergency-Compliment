@@ -3,10 +3,10 @@ Bundler.require
 require './lib/compliment'
 
 
-class App
+class App < Sinatra::Application
 
-  get '/' do
-    
+  get '/compliments' do
+    erb :index
   end
 
 end
