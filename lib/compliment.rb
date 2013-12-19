@@ -10,9 +10,9 @@ class Compliment
                "Chris's rabbit would definitely sit on YOUR lap.",
                "The internet was inspired by you.",
                "When you walked into the room I dropped my pen.",
-               "You are always prepared for cold pizza on a snowy day.",
+               "You are always prepared for cold pizza.",
                "You're way too dynamic for just plain HTML and CSS.",
-               "Your file structure has the sophistication of a Prarie Dog's tunnel system.",
+               "Your file structure has the sophistication of a prarie dog's tunnel system.",
                "The sound of your typing is like a christmas carol on steel drums."]
 
   def initialize
